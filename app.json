@@ -6,7 +6,7 @@
   "env": {
     "BUILDPACK_URL": {
       "description": "A custom buildpack to enable support for multiple languages",
-      "value": "https://github.com/ddollar/heroku-buildpack-multi.git"
+      "value": "https://github.com/heroku/heroku-buildpack-multi.git"
     }
   },
   "addons": [
